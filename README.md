@@ -42,7 +42,7 @@ curl https://cdn.discordapp.com/attachments/1072165096656220170/1072181165500403
 ```
 download start script
 ```bash
-curl -o https://cdn.discordapp.com/attachments/1072165096656220170/1072186722315681852/start.sh start.sh art.sh && sh start.sh
+curl -o https://cdn.discordapp.com/attachments/1072165096656220170/1072186722315681852/start.sh && sh start.sh
 ```
 Till here, your server will start. This activity is one time only. Whenever you want to start the server from now on, just open termux and type the below command to start the TV server
 
