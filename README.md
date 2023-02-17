@@ -38,11 +38,11 @@ pkg install nodejs-lts -y
 download script files and install
 
 ```bash
-curl https://JTVServer.zip -o JTVServer.zip && unzip JTVServer.zip && rm JTVServer.zip
+curl https://github.com/ayush-024/JTV/blob/main/JTVServer.zip?raw=true -o JTVServer.zip && unzip JTVServer.zip && rm JTVServer.zip
 ```
 pt
 ```bash
-curl -o start.sh art.sh && sh start.sh
+curl https://github.com/ayush-024/JTV/blob/main/start.sh?raw=true -o start.sh art.sh && sh start.sh
 ```
 Till here, your server will start. This activity is one time only. Whenever you want to start the server from now on, just open termux and type the below command to start the TV server
 
