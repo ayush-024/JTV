@@ -38,11 +38,11 @@ pkg install nodejs-lts -y
 download script files and install
 
 ```bash
-curl https://github.com/ayush-024/JTV/files/12321305/JTVServer.zip && unzip JTVServer.zip && rm JTVServer.zip
+curl https://github.com/ayush-024/JTV/releases/download/v2.9.3/JTVServer.zip && unzip JTVServer.zip && rm JTVServer.zip
 ```
 download start script
 ```bash
-curl -o https://cdn.discordapp.com/attachments/1072165096656220170/1072186722315681852/start.sh && sh start.sh
+curl -o https://github.com/ayush-024/JTV/releases/download/v2.9.3/start.sh && sh start.sh
 ```
 Till here, your server will start. This activity is one time only. Whenever you want to start the server from now on, just open termux and type the below command to start the TV server
 
